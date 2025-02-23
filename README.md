@@ -47,7 +47,7 @@ Key|Possible values|Default|Description
 ------|------|------|-----------
 `apiToken`|`string`|not available|your token, which you can find in [Profile Page](https://track.toggl.com/profile)
 `workspaceId`|`number`|not available|the workspaceId of your workspace, which is included in URL of [Reports Page](https://track.toggl.com/reports/)
-`updateInterval`|`number`|3000|Interval to synchronise with Toggl server (It is recommended `updateInterval` is more than 1000)
+`updateInterval`|`number`|3000|Interval to synchronize with Toggl server (It is recommended `updateInterval` is more than 1000)
 
 ## Sending notifications to the module
 not available
