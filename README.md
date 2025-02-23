@@ -35,8 +35,8 @@ To use this module, add it to the modules array in the `config/config.js` file:
         module: 'MMM-Toggl',
         position: 'bottom_bar',
         config: {
-            apiToken: "********************************"
-            workspaceId: 1234567
+            apiToken: "********************************",
+            workspaceId: 1234567,
             updateInterval: 3 * 1000
         }
     },
