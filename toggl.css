@@ -1,0 +1,23 @@
+.MMM-Toggl button {
+    border-radius: 50%;
+    display: inline-block flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+    aspect-ratio: 1;
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+
+.MMM-Toggl #start_button {
+    background: #D164C5;
+    color: #1F0F29;
+}
+
+.MMM-Toggl #stop_button {
+    font-size: 1.1rem;
+    background: #E67D6F;
+    color: #1F0F29;
+}
